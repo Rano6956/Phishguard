@@ -1,0 +1,10 @@
+From: "GitHub" <noreply@github.com>
+To: moi@example.com
+Subject: Votre résumé hebdomadaire
+Date: Mon, 05 Oct 2026 06:00:00 +0000
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=github.com; dkim=pass header.d=github.com; dmarc=pass header.from=github.com
+Content-Type: text/plain; charset="utf-8"
+
+Bonjour, voici l'activité de vos dépôts cette semaine :
+3 nouvelles étoiles, 1 pull request fusionnée.
+Consultez-la sur https://github.com/dashboard

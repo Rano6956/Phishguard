@@ -1,0 +1,24 @@
+From: "Fnac" <newsletter@fnac.com>
+To: client@example.com
+Subject: Les nouveautés de la rentrée
+Date: Mon, 05 Oct 2026 09:30:00 +0200
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=bounce.fnac.com; dkim=pass header.d=fnac.com; dmarc=pass header.from=fnac.com
+List-Unsubscribe: <https://www.fnac.com/desabonnement>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ALT"
+
+--ALT
+Content-Type: text/plain; charset="utf-8"
+
+Les nouveautés de la rentrée sont arrivées. Découvrez-les sur www.fnac.com
+--ALT
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<h1>Les nouveaut&eacute;s de la rentr&eacute;e</h1>
+<p><a href="https://fnac.us3.list-manage.com/track/click?u=abc&id=123">www.fnac.com/livres</a></p>
+<p><a href="http://www.fnac.com/jeux-video">Jeux vid&eacute;o</a> |
+<a href="http://www.fnac.com/high-tech">High-tech</a></p>
+<p><a href="https://www.fnac.com/desabonnement">Se d&eacute;sabonner</a></p>
+</body></html>
+--ALT--

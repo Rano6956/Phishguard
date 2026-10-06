@@ -1,0 +1,11 @@
+From: "Google" <no-reply@accounts.google.com>
+To: moi@example.com
+Subject: Alerte de sécurité : nouvelle connexion
+Date: Mon, 05 Oct 2026 11:12:40 +0000
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=accounts.google.com; dkim=pass header.d=accounts.google.com; dmarc=pass header.from=accounts.google.com
+Content-Type: text/plain; charset="utf-8"
+
+Nouvelle connexion à votre compte Google depuis un appareil Windows.
+Si c'était vous, aucune action n'est nécessaire.
+Sinon, vérifiez votre activité et changez votre mot de passe :
+https://myaccount.google.com/notifications

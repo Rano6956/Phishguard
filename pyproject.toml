@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phishguard"
+version = "1.1.0"
+description = "Détection de phishing explicable : heuristiques + avis LLM optionnel"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+ui = ["streamlit>=1.32"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+phishguard = "phishguard:main"
+
+[tool.setuptools]
+py-modules = ["phishguard"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

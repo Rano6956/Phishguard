@@ -1,0 +1,16 @@
+From: "Boursorama Banque" <securite@boursorama-verif.xyz>
+Reply-To: support.client.bourso@gmail.com
+To: victime@example.com
+Subject: URGENT - Votre compte sera suspendu
+Date: Mon, 05 Oct 2026 08:14:02 +0200
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=boursorama-verif.xyz; dkim=none; dmarc=fail header.from=boursorama-verif.xyz
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Cher client,</p>
+<p>Une activit&eacute; inhabituelle a &eacute;t&eacute; d&eacute;tect&eacute;e. Action requise :
+votre compte sera suspendu dans les 24 heures.</p>
+<p>Confirmez votre identifiant, votre mot de passe et votre num&eacute;ro de carte ici :
+<a href="http://192.168.45.12/bourso/login.php">https://www.boursorama.com/securite</a></p>
+</body></html>

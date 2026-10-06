@@ -1,0 +1,23 @@
+From: "Microsoft 365" <no-reply@rnicrosoft-security.com>
+To: employe@entreprise.fr
+Subject: =?utf-8?q?Votre_mot_de_passe_expire_aujourd=27hui?=
+Date: Mon, 05 Oct 2026 07:02:11 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p>Bonjour,</p>
+<p>Le mot de passe de votre compte Microsoft 365 expire aujourd'hui. Conservez-le en=
+ ouvrant la pi=C3=A8ce jointe ou via
+<a href=3D"https://login.microsoftonline.com.verification-compte.click/auth">ce lien s=C3=A9curis=C3=A9</a>.</p>
+<p>Service informatique</p>
+--BOUNDARY
+Content-Type: text/html; name="Facture_10-2026.pdf.html"
+Content-Disposition: attachment; filename="Facture_10-2026.pdf.html"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGJvZHk+PGZvcm0gYWN0aW9uPSJodHRwczovL2V2aWwuZXhhbXBsZSI+PC9mb3JtPjwvYm9keT48L2h0bWw+
+--BOUNDARY--
